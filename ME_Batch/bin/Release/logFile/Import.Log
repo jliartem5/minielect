@@ -1,0 +1,108 @@
+2017-08-13 14:51:08,942 WARN  -Error catch search page for <1049>:<BroadLink SC1>
+System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 无法从传输连接中读取数据: 连接已关闭。
+   在 System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.WebClient.DownloadBitsState.RetrieveBytes(Int32& bytesRetrieved)
+   在 System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 169
+2017-08-13 15:08:28,191 WARN  -Error catch search page for <1894>:<Xiaomi xiaomi Key and Switch>
+System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 无法从传输连接中读取数据: 连接已关闭。
+   在 System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.WebClient.DownloadBitsState.RetrieveBytes(Int32& bytesRetrieved)
+   在 System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 169
+2017-08-13 17:04:58,337 WARN  -Error catch search page for <6375>:<veeape Uwell Crwon Tank>
+System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 无法从传输连接中读取数据: 连接已关闭。
+   在 System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.WebClient.DownloadBitsState.RetrieveBytes(Int32& bytesRetrieved)
+   在 System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 169
+2017-08-13 18:35:29,133 WARN  -Error catch search page for <9688>:<ZHWCOMM CT-06>
+System.Net.WebException: 在 WebClient 请求期间发生异常。 ---> System.IO.IOException: 无法从传输连接中读取数据: 连接已关闭。
+   在 System.Net.ConnectStream.Read(Byte[] buffer, Int32 offset, Int32 size)
+   在 System.Net.WebClient.DownloadBitsState.RetrieveBytes(Int32& bytesRetrieved)
+   在 System.Net.WebClient.DownloadBits(WebRequest request, Stream writeStream, CompletionDelegate completionDelegate, AsyncOperation asyncOp)
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   --- 内部异常堆栈跟踪的结尾 ---
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 169
+2017-08-14 09:25:52,479 WARN  -Error catch page productId = 8823; Potential ID = 111583
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 09:57:25,347 WARN  -Error catch page productId = 6154; Potential ID = 116509
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 12:00:34,497 WARN  -Error catch page productId = 6665; Potential ID = 134086
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 12:41:52,178 WARN  -Error catch page productId = 6870; Potential ID = 140732
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 13:08:41,673 WARN  -Error catch page productId = 6987; Potential ID = 144698
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 13:58:43,253 WARN  -Error catch page productId = 8517; Potential ID = 152253
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 16:10:48,980 WARN  -Error catch page productId = 8392; Potential ID = 172954
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 16:13:06,416 WARN  -Error catch page productId = 7848; Potential ID = 173430
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 16:13:25,909 WARN  -Error catch page productId = 7850; Potential ID = 173542
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 17:34:41,882 WARN  -Error catch page productId = 8223; Potential ID = 185591
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 17:34:45,036 WARN  -Error catch page productId = 8223; Potential ID = 185594
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 18:50:22,542 WARN  -Error catch page productId = 9869; Potential ID = 200013
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-14 18:50:26,206 WARN  -Error catch page productId = 9869; Potential ID = 200018
+System.Net.WebException: 远程服务器返回错误: (404) 未找到。
+   在 System.Net.WebClient.DownloadDataInternal(Uri address, WebRequest& request)
+   在 System.Net.WebClient.DownloadString(Uri address)
+   在 ME_Batch.Program.CheckPotential(String market) 位置 C:\Users\li\Desktop\ME_Batch\ME_Batch\Program.cs:行号 298
+2017-08-18 20:12:06,675 INFO  -Begin fetch Nb_Vendu...
+2017-08-18 20:18:06,460 INFO  -Begin fetch Nb_Vendu...
+2017-08-18 20:22:02,152 INFO  -Begin fetch Nb_Vendu...

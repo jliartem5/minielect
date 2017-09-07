@@ -1,0 +1,74 @@
+<ul class="product-property-list util-clearfix"><li class="property-item" id="product-prop-2" data-attr="200704595" data-title="BroadLink">
+                         <span class="propery-title">Nom de la marque:</span>
+                         <span class="propery-des" title="BroadLink">BroadLink</span>
+                     </li>
+                                                 <li class="property-item" id="product-prop-100002145" data-attr="200002556,200003216" data-title="Télécommande,Clignotant">
+                         <span class="propery-title">Caractéristiques:</span>
+                         <span class="propery-des" title="Télécommande,Clignotant">Télécommande,Clignotant</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-1007" data-attr="" data-title="RF433MHz">
+                         <span class="propery-title">Vitesse maximale:</span>
+                         <span class="propery-des" title="RF433MHz">RF433MHz</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-200000613" data-attr="" data-title="NO">
+                         <span class="propery-title">Gyrophare:</span>
+                         <span class="propery-des" title="NO">NO</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-200000622" data-attr="200003338" data-title="2 canaux">
+                         <span class="propery-title">Cannaux de controle:</span>
+                         <span class="propery-des" title="2 canaux">2 canaux</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-200000612" data-attr="200003335" data-title="Prêt-à-aller">
+                         <span class="propery-title">État de l'Assemblée:</span>
+                         <span class="propery-des" title="Prêt-à-aller">Prêt-à-aller</span>
+                     </li>
+                                                                 
+                                                                 <li class="property-item" id="product-prop-20705" data-attr="366224" data-title="1:5">
+                         <span class="propery-title">Echelle:</span>
+                         <span class="propery-des" title="1:5">1:5</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-3" data-attr="" data-title="TC2 Switch 2Gang">
+                         <span class="propery-title">Numéro du modèle:</span>
+                         <span class="propery-des" title="TC2 Switch 2Gang">TC2 Switch 2Gang</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="US AU Standard wireless touch switch interruttore wifi">
+                         <span class="propery-title">Item Type:</span>
+                         <span class="propery-des" title="US AU Standard wireless touch switch interruttore wifi">US AU Standard wireless touch switch interruttore wifi</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="RF433MHz">
+                         <span class="propery-title">Signal Type:</span>
+                         <span class="propery-des" title="RF433MHz">RF433MHz</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="indoor <= 8m In Room">
+                         <span class="propery-title">Remote Control Distance:</span>
+                         <span class="propery-des" title="indoor <= 8m In Room">indoor <= 8m In Room</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="Tempered Toughened Crystal Glass Panel">
+                         <span class="propery-title">Panel Material:</span>
+                         <span class="propery-des" title="Tempered Toughened Crystal Glass Panel">Tempered Toughened Crystal Glass Panel</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="All kinds of lamps, but need to over 5W">
+                         <span class="propery-title">Lamps for Switch:</span>
+                         <span class="propery-des" title="All kinds of lamps, but need to over 5W">All kinds of lamps, but need to over 5W</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="Yes">
+                         <span class="propery-title">domotica home systems item:</span>
+                         <span class="propery-des" title="Yes">Yes</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="AC110~240V, 50/60Hz">
+                         <span class="propery-title">Power Supply:</span>
+                         <span class="propery-des" title="AC110~240V, 50/60Hz">AC110~240V, 50/60Hz</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="120*72mm">
+                         <span class="propery-title">Size:</span>
+                         <span class="propery-des" title="120*72mm">120*72mm</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="Timer function,work with Broadlink RM Pro">
+                         <span class="propery-title">Features:</span>
+                         <span class="propery-des" title="Timer function,work with Broadlink RM Pro">Timer function,work with Broadlink RM Pro</span>
+                     </li>
+                                                                 <li class="property-item" id="product-prop-" data-attr="" data-title="Wifi Home Automation">
+                         <span class="propery-title">Applications:</span>
+                         <span class="propery-des" title="Wifi Home Automation">Wifi Home Automation</span>
+                     </li>
+                                     </ul>
